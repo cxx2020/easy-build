@@ -8,7 +8,7 @@ easy-build
 This repository contains a collection of [Docker](http://www.docker.com/)files that help rebuilding a few embedded software distributions.
 
 | Subproject               | Description                                 |
-| ------------------------ | ------------------------------------------- |
+| ------------------------ | -------------------------------------------- |
 | [build-aosp][1]          | Android Open Source Project                 |
 | [build-openwrt][2]       | OpenWrt                                     |
 | [build-yocto][3]         | Yocto Project                               |
